@@ -9,7 +9,7 @@ It provides the required collections and data format so the main application can
 ## 🔗 Main Application Repository
 
 👉 **Lab Management System (Java + MongoDB):**  
-[Lab Management app](https://github.com/SuzyUwU/LabManagement)
+[Lab Management system](https://github.com/SuzyUwU/LabManagement)
 
 Clone and run the application from the repository above.
 
