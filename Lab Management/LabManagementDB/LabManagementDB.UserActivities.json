@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6777af554f6a36368fd7b288"
+  },
+  "userId": {
+    "$numberLong": "23051204004"
+  },
+  "labId": 2,
+  "activityId": 17,
+  "timeSlot": "15:00",
+  "activityName": "database"
+}]

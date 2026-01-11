@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfe9b"
+  },
+  "activityId": 1,
+  "activityName": "Router Configuration",
+  "labId": 1,
+  "description": "Configure and manage routers.",
+  "hours": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "participants": [
+    1576367522
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfe9c"
+  },
+  "activityId": 2,
+  "activityName": "Network Security Basics",
+  "labId": 1,
+  "description": "Introduction to network security.",
+  "hours": [
+    false,
+    true,
+    false,
+    false
+  ],
+  "participants": [
+    1576367522
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfe9d"
+  },
+  "activityId": 3,
+  "activityName": "VPN Setup",
+  "labId": 1,
+  "description": "Set up a secure VPN.",
+  "hours": [
+    false,
+    false,
+    true,
+    false
+  ],
+  "participants": [
+    1576367523
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfe9e"
+  },
+  "activityId": 4,
+  "activityName": "Wireless Networking",
+  "labId": 1,
+  "description": "Learn about wireless networking.",
+  "hours": [
+    false,
+    false,
+    false,
+    true
+  ],
+  "participants": [
+    1576367522,
+    1576367524
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfe9f"
+  },
+  "activityId": 5,
+  "activityName": "System Design Patterns",
+  "labId": 2,
+  "description": "Learn common design patterns.",
+  "hours": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfea0"
+  },
+  "activityId": 6,
+  "activityName": "Server Deployment",
+  "labId": 2,
+  "description": "Deploy and manage servers.",
+  "hours": [
+    false,
+    true,
+    false,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfea1"
+  },
+  "activityId": 7,
+  "activityName": "System Monitoring",
+  "labId": 2,
+  "description": "Techniques for system monitoring.",
+  "hours": [
+    false,
+    false,
+    true,
+    false
+  ],
+  "participants": [
+    1576367522
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfea2"
+  },
+  "activityId": 8,
+  "activityName": "Cloud Computing Basics",
+  "labId": 2,
+  "description": "Introduction to cloud computing.",
+  "hours": [
+    false,
+    false,
+    false,
+    true
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfea3"
+  },
+  "activityId": 9,
+  "activityName": "Video Editing",
+  "labId": 3,
+  "description": "Basics of video editing.",
+  "hours": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673fe1b40406c4e4bfea4"
+  },
+  "activityId": 10,
+  "activityName": "Graphic Design",
+  "labId": 3,
+  "description": "Learn graphic design tools.",
+  "hours": [
+    false,
+    true,
+    false,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfea5"
+  },
+  "activityId": 11,
+  "activityName": "Animation Basics",
+  "labId": 3,
+  "description": "Introduction to animation.",
+  "hours": [
+    false,
+    false,
+    true,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfea6"
+  },
+  "activityId": 12,
+  "activityName": "Audio Mixing",
+  "labId": 3,
+  "description": "Learn audio mixing techniques.",
+  "hours": [
+    false,
+    false,
+    false,
+    true
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfea7"
+  },
+  "activityId": 13,
+  "activityName": "Agile Development",
+  "labId": 4,
+  "description": "Overview of Agile methodology.",
+  "hours": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfea8"
+  },
+  "activityId": 14,
+  "activityName": "Version Control with Git",
+  "labId": 4,
+  "description": "Learn Git for version control.",
+  "hours": [
+    false,
+    true,
+    false,
+    false
+  ],
+  "participants": [
+    1576367523,
+    1576367522
+  ]
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfea9"
+  },
+  "activityId": 15,
+  "activityName": "Unit Testing",
+  "labId": 4,
+  "description": "Basics of unit testing.",
+  "hours": [
+    false,
+    false,
+    true,
+    false
+  ],
+  "participants": []
+},
+{
+  "_id": {
+    "$oid": "677673ff1b40406c4e4bfeaa"
+  },
+  "activityId": 16,
+  "activityName": "CI/CD Pipelines",
+  "labId": 4,
+  "description": "Setup continuous integration pipelines.",
+  "hours": [
+    false,
+    false,
+    false,
+    true
+  ],
+  "participants": [
+    1576367522
+  ]
+},
+{
+  "_id": {
+    "$oid": "6777ada64f6a36368fd7b263"
+  },
+  "activityId": 17,
+  "activityName": "database",
+  "labId": 2,
+  "description": "Making a Database",
+  "hours": [
+    false,
+    false,
+    false,
+    true
+  ],
+  "participants": [
+    1576367524
+  ]
+}]

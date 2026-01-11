@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6774bd2485bc6a6de30a26c6"
+  },
+  "labId": 1,
+  "labName": "Networking",
+  "labFunction": "Tech Building",
+  "specification": "Networking equipment and setup",
+  "location": "Tech Building"
+},
+{
+  "_id": {
+    "$oid": "6774bd2485bc6a6de30a26c7"
+  },
+  "labId": 2,
+  "labName": "System",
+  "labFunction": "Tech Building",
+  "specification": "System analysis and design tools",
+  "location": "Tech Building"
+},
+{
+  "_id": {
+    "$oid": "6774bd2485bc6a6de30a26c8"
+  },
+  "labId": 3,
+  "labName": "Multimedia",
+  "labFunction": "Tech Building",
+  "specification": "Multimedia tools and resources",
+  "location": "Tech Building"
+},
+{
+  "_id": {
+    "$oid": "6774bd4f60fc911241e113c2"
+  },
+  "labId": 4,
+  "labName": "Software Engineering",
+  "labFunction": "Tech Building",
+  "specification": "Software development tools",
+  "location": "Tech Building"
+}]

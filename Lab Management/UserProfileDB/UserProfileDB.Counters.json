@@ -1,0 +1,6 @@
+[{
+  "_id": "userIdCounter",
+  "lastId": {
+    "$numberLong": "23051204004"
+  }
+}]

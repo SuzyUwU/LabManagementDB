@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6770b48e57f23002b3b75c88"
+  },
+  "userId": {
+    "$numberLong": "23051204001"
+  },
+  "username": "Alex",
+  "password": "alex"
+},
+{
+  "_id": {
+    "$oid": "6776004454379778fb799bec"
+  },
+  "userId": {
+    "$numberLong": "23051204002"
+  },
+  "username": "Amy",
+  "password": "amy"
+},
+{
+  "_id": {
+    "$oid": "6776640df2e3bc5c79883bdc"
+  },
+  "userId": {
+    "$numberLong": "23051204003"
+  },
+  "username": "Suzy",
+  "password": "1"
+},
+{
+  "_id": {
+    "$oid": "6777ab1d4f6a36368fd7b260"
+  },
+  "userId": {
+    "$numberLong": "23051204004"
+  },
+  "username": "Mongo ",
+  "password": "DB"
+}]
